@@ -1,0 +1,20 @@
+{
+  "name": "js-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "renderer.js",
+  "scripts": {
+    "start": "node renderer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedBaba95/js-react.git"
+  },
+  "author": "Baba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedBaba95/js-react/issues"
+  },
+  "homepage": "https://github.com/AhmedBaba95/js-react#readme"
+}
